@@ -114,7 +114,8 @@ EXTRA: fusila el arma secreta de los ranking 10 [fight code game](http://fightco
 EXTRA: Crea tu arma de destrucción masiva [fight code game](http://fightcodegame.com/)
 
 
-Semana 7
+### Semana 7
+
 - Leer OOP in JS: What You NEED to Know
 - Realizar [Phaser coding tips 7](http://www.photonstorm.com/phaser/phaser-coding-tips-7)
 - Realizar [Phaser coding tips 8](http://www.photonstorm.com/phaser/phaser-coding-tips-8)
